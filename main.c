@@ -3,7 +3,7 @@
 void selection(int*, int);
 int main()
 {
-    int i;
+    //int i;
     int arr [7] = {2, 5, 3, 9, 7, 1, 11};
     for(i=0; i<7; i++){
         printf("%d\t", arr[i]);
